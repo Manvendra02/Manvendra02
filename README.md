@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 An ambitious and driven individual with a strong enthusiasm for technology. Proficient in web development and data analytics emphasizing problem-solving and a keen drive for innovation.
 
-* 🖥️  See my portfolio at [https://manvendra02.github.io/Manvendra.github.io/](http://ztm.com)
+* 🖥️  See my portfolio at [https://manvendra02.github.io/Manvendra.github.io/](https://manvendra02.github.io/Manvendra.github.io/)
 * ✉️  You can contact me at [manvendrakishanpandey@gmail.com](mailto:manvendrakishanpandey@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Creative Projects
